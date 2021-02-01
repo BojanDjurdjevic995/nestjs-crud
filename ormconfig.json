@@ -1,9 +1,0 @@
-{
-    "type": "mysql",
-    "host": "localhost",
-    "port": 3306,
-    "username": "bojan",
-    "password": "pecenegilova12",
-    "database": "node_js_tut",
-    "entities": ["src/**/*.entity{.ts,.js}"]
-}
